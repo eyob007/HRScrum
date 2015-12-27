@@ -1,4 +1,4 @@
 # HRScrum
 This was developed as a main Project for Software Engineering Course, September 2015.
 
-Spring MVC, jsp, Bootstarp, css, MySql, e.t.c 
+Spring MVC, jsp, Bootstarp, css, mysql, e.t.c 
